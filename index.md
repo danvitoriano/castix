@@ -41,5 +41,5 @@ N1*27. Os ícones são laranja	Perfil minha conta
 N1 28. A aplicação do avatar no header está sem borda	Perfil minha conta
 
 
-E-MAIL basico: efosato-2726@yopmail.com / 9832dani
+
 
