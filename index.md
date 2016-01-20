@@ -12,11 +12,11 @@ ILLUSTRATOR
 --N1 13. Selo de plano recomendado	Modelos (http://castix.local/usuarios_planos)
 
 HTML, CSS, JAVASCRIPT
-N1 4. Aumentar o tamanho das imagens, aqui no meu monitor 2900 de altura ficou bem pequeno	Home segundo bloco
+--N1 4. Aumentar o tamanho das imagens, aqui no meu monitor 2900 de altura ficou bem pequeno	Home segundo bloco
 N3 2. Faltam as bolinhas de navegação lateral	Home primeiro bloco
 N2 4. Aumentar o tamanho das imagens, aqui no meu monitor 2900 de altura ficou bem pequeno	Home segundo bloco
 N2 5. Pode deixar as imagens e texto maiores do blog	Home quinto bloco
-N1 6. Falta a imagem de BG	Como funciona, Profissionais, Sobre Modelos
+--N1 6. Falta a imagem de BG	Como funciona, Profissionais, Sobre Modelos
 N3 8. Colocar os drops estilizados em SVG e não em nativo	Modelos
 N1 9. Faltou icon de geolocalização do usuário	Modelos
 N2 10. Deixar o card de cada usuário (branco) um pouco mais horizontal	Modelos
