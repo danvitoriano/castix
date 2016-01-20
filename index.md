@@ -1,24 +1,23 @@
 TAREFAS UX
 
 PHOTOSHOP
-N1 1. Arrumar o logo para ser transparente
-N1 3. Qualidade da foto do destaque principal está pixelizada..	Home primeiro bloco
-N1 4. Aumentar o tamanho das imagens, aqui no meu monitor 2900 de altura ficou bem pequeno	Home segundo bloco
-N1 6. Falta a imagem de BG	Como funciona, Profissionais, Sobre Modelos
+--N1 1. Arrumar o logo para ser transparente
+--N1 3. Qualidade da foto do destaque principal está pixelizada..	Home primeiro bloco
+--N1 6. Falta a imagem de BG	Como funciona, Profissionais, Sobre, Modelos
 
 ILLUSTRATOR
-N1 8. Criar os drops e icone geolocalizacao em svg	Modelos
-N1 14. Faltam campos estilizados com icons	Login
-N1 16. Ícones dos passos estão faltando (1, 2,3..)	Cadastro
-N1 11. No componente de escolha de plano faltam os icones	Modelos (http://castix.local/usuarios_planos)
-N1 13. Selo de plano recomendado	Modelos (http://castix.local/usuarios_planos)
+--N1 8. Criar os drops e icone geolocalizacao em svg	Modelos
+--N1 14. Faltam campos estilizados com icons	Login
+--N1 11. No componente de escolha de plano faltam os icones	Modelos (http://castix.local/usuarios_planos)
+--N1 13. Selo de plano recomendado	Modelos (http://castix.local/usuarios_planos)
 
 HTML, CSS, JAVASCRIPT
+N1 4. Aumentar o tamanho das imagens, aqui no meu monitor 2900 de altura ficou bem pequeno	Home segundo bloco
 N3 2. Faltam as bolinhas de navegação lateral	Home primeiro bloco
 N2 4. Aumentar o tamanho das imagens, aqui no meu monitor 2900 de altura ficou bem pequeno	Home segundo bloco
 N2 5. Pode deixar as imagens e texto maiores do blog	Home quinto bloco
 N1 6. Falta a imagem de BG	Como funciona, Profissionais, Sobre Modelos
-N3 8. Colocar os drops estilizados e não em nativo	Modelos
+N3 8. Colocar os drops estilizados em SVG e não em nativo	Modelos
 N1 9. Faltou icon de geolocalização do usuário	Modelos
 N2 10. Deixar o card de cada usuário (branco) um pouco mais horizontal	Modelos
 N1 11. No componente de escolha de plano faltam os icones	Modelos (http://castix.local/usuarios_planos)
